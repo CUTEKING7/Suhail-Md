@@ -2,7 +2,7 @@
 <p align="center"> Introducing Suhail_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 
-<h3 align="center"> TESTING HEROKU BAN PROBLEM! </h3> 
+<h3 align="center"> TESTING HEROKU BAN PROBLEM RizwaN 106! </h3> 
 
 
 
@@ -95,7 +95,7 @@
 6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSuhailTechInfo%2FSuhail-)***
 7.  ***Deploy on [`Replit`](https://replit.com/github/SuhailTechInfo/Suhail-Md)***
 8.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923184474176&env[MONGODB_URI]&&env[OWNER_NAME]=Suhail&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SUHAIL&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/NpA3ZsJ.jpeg)***
+9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/services/deploy/?image=quay.io%2Fsuhailtechinfo%2Fkoyeb%3Alatest&type=docker&env%5BSESSION_ID%5D=&env%5BOWNER_NUMBER%5D=923184474176&env%5BMONGODB_URI%5D=&env%5BOWNER_NAME%5D=Suhail&env%5BPREFIX%5D=.&env%5BPACK_AUTHER%5D=whatsapp%20bot&env%5BPACK_NAME%5D=Suhail%20MD&env%5BMODE%5D=private&env%5BTHUMB_IMAGE%5D=https%3A%2F%2Fi.imgur.com%2FNpA3ZsJ.jpeg[SESSION_ID]&env[OWNER_NUMBER]=923184474176&env[MONGODB_URI]&&env[OWNER_NAME]=Suhail&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SUHAIL&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/NpA3ZsJ.jpeg)***
 
 ##
 ---
